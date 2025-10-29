@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "4f97955776c8cea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d79d917535b5344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f44d3ff5e23ddc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insecure Deserialization/Ruby.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruby"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b961d18b123bea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "25a6e1abe3160318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f906286110f9973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f51d28f5a8af7ed5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20f59c3174570219",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 567.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7a3a4f9b8466cd41",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd33f9a18a414238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86180c839762b8cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Insecure Deserialization/Ruby.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ruby"
+            }
+          },
+          {
+            "id": "b0494a40fef6bbfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Insecure Deserialization/Ruby.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ruby"
+            }
+          },
+          {
+            "id": "470977cc41ab9d5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cdc1ed5eb6bb68bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Insecure Deserialization/Ruby.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ruby"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f44d3ff5e23ddc71",
+  "lastOpenFiles": [
+    "Insecure Deserialization/README.md",
+    "LDAP Injection/README.md",
+    "Mass Assignment/README.md",
+    "XSS Injection/README.md",
+    "Server Side Template Injection/README.md",
+    "Methodology and Resources/Bind Shell Cheatsheet.md"
+  ]
+}
